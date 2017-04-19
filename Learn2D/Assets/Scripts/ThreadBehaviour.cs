@@ -3,13 +3,18 @@ using System.Collections;
 using System.Threading;
 
 public class ThreadBehaviour : MonoBehaviour {
-	Thread mThread;
+	Thread mThread = null;
 	int mCount = 0;
-	void startThread()
+
+    void startThread()
 	{
-		if(mThread != null)
-		{
-			mThread = new Thread(testThread);
+        print("startThread");
+
+        if(mThread == null)
+        {
+            print("new startThread");
+
+            mThread = new Thread(testThread);
 		}
 		mThread.Start();
 	}
@@ -44,8 +49,11 @@ public class ThreadBehaviour : MonoBehaviour {
 	}
 	// Use this for initialization
 	void Start () {
-	
-	}
+        print("Start");
+
+        mThread = null;
+        mCount = 1;
+    }
 	
 	// Update is called once per frame
 	void Update () {
