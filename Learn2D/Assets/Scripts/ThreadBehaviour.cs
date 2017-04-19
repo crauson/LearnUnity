@@ -7,7 +7,10 @@ public class ThreadBehaviour : MonoBehaviour {
 	int mCount = 0;
 	void startThread()
 	{
-		mThread = new Thread(testThread);
+		if(mThread != null)
+		{
+			mThread = new Thread(testThread);
+		}
 		mThread.Start();
 	}
 	void stopThread()
