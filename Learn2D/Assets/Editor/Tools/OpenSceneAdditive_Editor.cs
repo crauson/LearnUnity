@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEditor;
 
-public class OpenSceneAdditiveBehaviour : Editor {
+public class OpenSceneAdditive_Editor : Editor {
 	//[MenuItem("Examples/Load Scene Additive")]
 
 	static void Apply()

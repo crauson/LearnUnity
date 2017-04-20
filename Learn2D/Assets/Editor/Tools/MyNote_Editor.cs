@@ -2,12 +2,12 @@
 using System.Collections;
 using UnityEditor;
 
-public class MyNote : EditorWindow {
+public class MyNote_Editor : EditorWindow {
 	string note = "Notes:\n->\n->";
 	[MenuItem("Examples/QuickNotes")]
 	static void Init()
 	{
-		MyNote window = (MyNote)EditorWindow.GetWindow(typeof(MyNote));
+		MyNote_Editor window = (MyNote_Editor)EditorWindow.GetWindow(typeof(MyNote_Editor));
 		window.Show();
 	}
 	

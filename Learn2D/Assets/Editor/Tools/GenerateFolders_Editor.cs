@@ -5,7 +5,7 @@ using System.IO;
 #if UNITY_EDITOR
 using UnityEditor;
 #endif
-public class GenerateFolders : MonoBehaviour
+public class GenerateFolders_Editor : MonoBehaviour
 {
 	#if UNITY_EDITOR
 	[MenuItem("Tools/CreateBasicFolder #&_b")]
