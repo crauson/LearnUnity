@@ -1,0 +1,506 @@
+fileFormatVersion: 2
+guid: 5be4faac044bbda4eaccb27faf3b4aab
+timeCreated: 1492767692
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CombatUnit_0
+    21300002: CombatUnit_1
+    21300004: CombatUnit_2
+    21300006: CombatUnit_3
+    21300008: CombatUnit_4
+    21300010: CombatUnit_5
+    21300012: CombatUnit_6
+    21300014: CombatUnit_7
+    21300016: CombatUnit_8
+    21300018: CombatUnit_9
+    21300020: CombatUnit_10
+    21300022: CombatUnit_11
+    21300024: CombatUnit_12
+    21300026: CombatUnit_13
+    21300028: CombatUnit_14
+    21300030: CombatUnit_15
+    21300032: CombatUnit_16
+    21300034: CombatUnit_17
+    21300036: CombatUnit_18
+    21300038: CombatUnit_19
+    21300040: CombatUnit_20
+    21300042: CombatUnit_21
+    21300044: CombatUnit_22
+    21300046: CombatUnit_23
+    21300048: CombatUnit_24
+    21300050: CombatUnit_25
+    21300052: CombatUnit_26
+    21300054: CombatUnit_27
+    21300056: CombatUnit_28
+    21300058: CombatUnit_29
+    21300060: CombatUnit_30
+    21300062: CombatUnit_31
+    21300064: CombatUnit_32
+    21300066: CombatUnit_33
+    21300068: CombatUnit_34
+    21300070: CombatUnit_35
+    21300072: CombatUnit_36
+    21300074: CombatUnit_37
+    21300076: CombatUnit_38
+    21300078: CombatUnit_39
+    21300080: CombatUnit_40
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CombatUnit_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 868
+        width: 122
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 975
+        width: 124
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_2
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 965
+        width: 119
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 889
+        width: 89
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_4
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 971
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_5
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 971
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_6
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 977
+        width: 86
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_7
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 976
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_8
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 987
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_9
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 885
+        width: 102
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 870
+        width: 149
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_11
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 870
+        width: 154
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_12
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 888
+        width: 165
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_13
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 888
+        width: 146
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_14
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 864
+        width: 84
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 465
+        width: 405
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_16
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 465
+        width: 368
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_17
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 636
+        width: 192
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_18
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 761
+        width: 100
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_19
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 681
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 610
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 613
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_22
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 614
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_23
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 532
+        width: 116
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_24
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 596
+        width: 65
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 607
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_26
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 415
+        width: 84
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_27
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 492
+        width: 73
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 18
+        width: 407
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_29
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2
+        width: 367
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_30
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 250
+        width: 84
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_31
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 376
+        width: 74
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_32
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 250
+        width: 72
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_33
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 80
+        width: 95
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_34
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 172
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_35
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 128
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_36
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 80
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_37
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 78
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_38
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2
+        width: 158
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_39
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 34
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CombatUnit_40
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
