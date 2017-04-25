@@ -1,1 +1,5 @@
-a
+1. unity动态换装之Spine换装 : http://www.cnblogs.com/liaoguipeng/p/5867510.html
+
+2. Unity进阶技巧 - 动态创建UGUI : http://www.jianshu.com/p/99407ebc10c9
+
+3. Unity3D中引用Spine2D动画研究学习 ： http://blog.csdn.net/wlqchengzhangji/article/details/47977595
